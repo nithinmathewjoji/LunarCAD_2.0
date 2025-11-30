@@ -1,1 +1,2 @@
+![Schematics](./schematics.svg)
 
