@@ -1,4 +1,32 @@
 # LunarCAD_2.0
 ![Title](./1.png)
 
-LunarCAD 2.0 — continuing the Lunarcad journey with hands-on electronics design, learning, and innovation.
+
+## 📂 Repository Structure
+
+- [KICAD_Files](./KICAD_Files)  
+  KiCad project files for PCB design and electronics schematics.
+
+- [LunarCAD_PPT](./LunarCAD_PPT)  
+  Presentation materials and slides related to LunarCAD 2.0.
+
+- [Schematics](./Schematics)  
+  Circuit diagrams and supporting design documentation.
+
+---
+
+## 🚀 About
+
+LunarCAD 2.0 continues the Lunarcad journey:
+- Hands-on electronics design  
+- Learning through collaboration  
+- Building innovative projects together  
+
+LunarCAD will continue to grow, and hopefully one day it will become one of the flagship events ever known by **IEEE** and the **College of Engineering Chengannur**.
+
+---
+
+
+## 📜 License
+
+This project is released under the MIT License — feel free to use, modify, and share.
